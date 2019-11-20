@@ -1,0 +1,7 @@
+{
+  "name": "ce-dat",
+  "version": "1.0.0",
+  "dependencies": {
+    "dat": "^13.13.1"
+  }
+}
